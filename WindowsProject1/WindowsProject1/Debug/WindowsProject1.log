@@ -1,0 +1,3 @@
+﻿  WindowsProject1.cpp
+d:\с++ projects\windowsproject1\windowsproject1\windowsproject1.cpp(191): error C2664: "int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)": невозможно преобразовать аргумент 2 из "const char [22]" в "LPCWSTR"
+  d:\с++ projects\windowsproject1\windowsproject1\windowsproject1.cpp(191): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции

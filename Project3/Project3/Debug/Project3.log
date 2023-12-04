@@ -1,0 +1,24 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.rh(19): warning C4005: RT_MANIFEST: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(260): note: см. предыдущее определение "RT_MANIFEST"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.rh(20): warning C4005: CREATEPROCESS_MANIFEST_RESOURCE_ID: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(261): note: см. предыдущее определение "CREATEPROCESS_MANIFEST_RESOURCE_ID"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.rh(21): warning C4005: ISOLATIONAWARE_MANIFEST_RESOURCE_ID: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(262): note: см. предыдущее определение "ISOLATIONAWARE_MANIFEST_RESOURCE_ID"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.rh(22): warning C4005: ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(263): note: см. предыдущее определение "ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.rh(23): warning C4005: MINIMUM_RESERVED_MANIFEST_RESOURCE_ID: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(264): note: см. предыдущее определение "MINIMUM_RESERVED_MANIFEST_RESOURCE_ID"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.rh(24): warning C4005: MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(265): note: см. предыдущее определение "MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winres.h(35): warning C4005: LB_ADDSTRING: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(11390): note: см. предыдущее определение "LB_ADDSTRING"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winres.h(36): warning C4005: CB_ADDSTRING: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winuser.h(11538): note: см. предыдущее определение "CB_ADDSTRING"
+d:\с++ projects\project3\project3\project3.rc(19): error C2143: синтаксическая ошибка: отсутствие ";" перед "константа"
+d:\с++ projects\project3\project3\project3.rc(19): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+d:\с++ projects\project3\project3\main.cpp(78): error C2275: UINT: недопустимое использование этого типа в качестве выражения
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(177): note:  см. объявление "UINT"
+d:\с++ projects\project3\project3\main.cpp(78): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "message"
+d:\с++ projects\project3\project3\main.cpp(79): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+d:\с++ projects\project3\project3\main.cpp(79): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
